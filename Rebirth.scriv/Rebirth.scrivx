@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.5.1" Device="Rowan2024" Modified="2025-07-17 21:44:00 -0400" ModID="D1CBC42A-55BE-4846-BF3B-5003CD931E07">
+    <Binder>
+        <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 13:50:52 -0400" Modified="2019-08-29 05:41:55 -0400">
+            <Title>Manuscript</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="04C88290-EEAC-4BCF-886F-F0B375601C62" Type="Folder" Created="2025-07-09 15:32:35 -0400" Modified="2025-07-09 15:32:53 -0400">
+                    <Title>Part One - Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2025-06-28 07:48:43 -0400">
+                            <Title>Chapter One</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2025-07-08 11:20:26 -0400">
+                                    <Title>Convention</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="2052">2051,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3415E9E6-F5C9-4965-9D7D-33601BFC2DE1" Type="Text" Created="2025-06-25 14:33:20 -0400" Modified="2025-07-08 11:21:16 -0400">
+                                    <Title>Bad Business</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="4192">4191,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="8F16C3DC-9260-47A5-81C2-67CEC099F23A" Type="Text" Created="2025-06-25 15:13:21 -0400" Modified="2025-07-08 11:21:37 -0400">
+                                    <Title>Apocalypse Now-ish</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="3714">3632,82</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="9A6FDF25-FE3D-4444-80D5-40028F9CE3B3" Type="Folder" Created="2025-06-28 07:48:34 -0400" Modified="2025-06-28 07:48:50 -0400">
+                            <Title>Chapter Two</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B4563135-A8F8-41E4-B76F-434B63A4E65A" Type="Text" Created="2025-06-28 07:48:58 -0400" Modified="2025-06-30 10:40:49 -0400">
+                                    <Title>Awakening</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>427,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C6C04C9C-4167-48F6-990B-498CDC9E926D" Type="Text" Created="2025-06-28 08:58:46 -0400" Modified="2025-07-08 11:22:30 -0400">
+                                    <Title>Adaptation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="583">582,1</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="19B91F7B-3B50-4F76-996B-9FEE595FFE19" Type="Text" Created="2025-06-28 12:13:56 -0400" Modified="2025-06-30 10:53:12 -0400">
+                                    <Title>Pre-evaluation explanations</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="C90F2862-174B-4466-BBDE-22507CF8C6F9" Type="Folder" Created="2025-06-28 17:47:26 -0400" Modified="2025-06-28 17:47:32 -0400">
+                            <Title>Chapter Three</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="EE335742-74E5-4CD6-A52E-F640DD7745D2" Type="Text" Created="2025-06-28 17:47:37 -0400" Modified="2025-07-08 13:39:59 -0400">
+                                    <Title>A World of Suck</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6875,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="0BAAF3FC-8C1C-4BFD-9C06-44C4740BA4D2" Type="Text" Created="2025-06-28 20:04:00 -0400" Modified="2025-07-08 13:44:24 -0400">
+                                    <Title>Prodigious Prodigy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5906,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2E86E02A-26FB-47FF-8B9E-BDBD6CAC38BC" Type="Text" Created="2025-06-29 18:24:15 -0400" Modified="2025-06-30 11:06:53 -0400">
+                                    <Title>Rest Break</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>118,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="000942E9-7EE9-410E-BD84-2EA5946A286D" Type="Folder" Created="2025-06-29 18:41:32 -0400" Modified="2025-06-29 18:41:39 -0400">
+                            <Title>Chapter Four</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="4D506A13-4854-4285-A393-9E742D460229" Type="Text" Created="2025-06-29 18:41:42 -0400" Modified="2025-07-08 13:46:05 -0400">
+                                    <Title>Waking and Talking</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>14651,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F9FBB667-2E82-4CB6-9CAE-A2A9446FBC80" Type="Text" Created="2025-06-29 22:37:09 -0400" Modified="2025-07-08 11:26:18 -0400">
+                                    <Title>Magic</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6863,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C3E5E35C-8727-40BA-AAEA-FACFE79C1122" Type="Text" Created="2025-06-30 17:07:49 -0400" Modified="2025-07-08 13:46:50 -0400">
+                                    <Title>Meditation Mediation</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7612,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="12F2AE51-6E5C-4EEE-B8AF-BD38D4781A7E" Type="Text" Created="2025-06-30 18:51:58 -0400" Modified="2025-06-30 19:11:58 -0400">
+                                    <Title>Earth</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="F61CDAE9-7814-4768-A34D-71D942D497E0" Type="Folder" Created="2025-07-01 07:08:31 -0400" Modified="2025-07-01 07:08:40 -0400">
+                            <Title>Chapter Five</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>39B0184D-F8C6-406B-8836-01162E376FA4</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="96AE3309-06BE-4D72-B5F5-9B7A7E6BB636" Type="Text" Created="2025-07-01 07:08:55 -0400" Modified="2025-07-08 18:01:02 -0400">
+                                    <Title>Physical Evaluation - Endurance</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4727,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6A566474-84F6-4D55-883B-C955B58133FB" Type="Text" Created="2025-07-06 13:34:16 -0400" Modified="2025-07-08 18:07:40 -0400">
+                                    <Title>Physical Evaluation - Agility</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5067,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FC662BDE-CEED-457D-A86D-2FC5E9708CA4" Type="Text" Created="2025-07-06 15:43:23 -0400" Modified="2025-07-08 13:55:08 -0400">
+                                    <Title>Physical Evaluation - Strength</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7637,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="39B0184D-F8C6-406B-8836-01162E376FA4" Type="Text" Created="2025-07-06 17:46:38 -0400" Modified="2025-07-08 13:58:40 -0400">
+                                    <Title>Physical Evaluation - Dexterity</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>8292,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="5E89DFC5-97A0-4287-99B3-90C749EC3886" Type="Folder" Created="2025-07-06 19:52:15 -0400" Modified="2025-07-06 19:52:23 -0400">
+                            <Title>Chapter Six</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="D6C19486-CDD8-455E-9041-50CB03E623BC" Type="Text" Created="2025-07-06 19:52:29 -0400" Modified="2025-07-08 14:03:25 -0400">
+                                    <Title>Rest Break</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7565,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="26C6A78E-DDF3-44EB-8649-EA9AAD8D8FB9" Type="Text" Created="2025-07-06 23:48:53 -0400" Modified="2025-07-08 20:30:42 -0400">
+                                    <Title>Mental Evaluation - Intelligence</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6823,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D178E6EE-833D-4985-AB70-E7290B1D6900" Type="Text" Created="2025-07-07 16:39:40 -0400" Modified="2025-07-09 23:47:11 -0400">
+                                    <Title>Mental Evaluation - Wisdom</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9865,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="37DDB14F-6AA7-4BCC-96C4-8EEC8761D4F9" Type="Text" Created="2025-07-08 12:56:58 -0400" Modified="2025-07-09 23:53:11 -0400">
+                                    <Title>A chat between cycles</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9747,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="BD50576D-265F-48B3-8D09-FA77AE52BB01" Type="Text" Created="2025-07-08 17:20:39 -0400" Modified="2025-07-09 23:57:26 -0400">
+                                    <Title>Mental Evaluation - Willpower</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>8444,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="DA8FDE9D-0A31-4469-9C1C-EC323E7677E0" Type="Folder" Created="2025-07-08 19:33:47 -0400" Modified="2025-07-08 19:33:56 -0400">
+                            <Title>Chapter Seven</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>055A456E-BAF6-41FF-B409-80A225B61A22</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="055A456E-BAF6-41FF-B409-80A225B61A22" Type="Text" Created="2025-07-08 19:34:05 -0400" Modified="2025-07-10 00:01:37 -0400">
+                                    <Title>Recovery and discovery</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7476,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="BF950A11-7C8A-40F2-92EE-6733F41A2AF8" Type="Text" Created="2025-07-08 22:30:14 -0400" Modified="2025-07-10 00:05:26 -0400">
+                                    <Title>Basics Training</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5519,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="3D5ECE49-6E45-44CC-8197-2FB367DD2D24" Type="Folder" Created="2025-07-09 12:17:22 -0400" Modified="2025-07-09 12:17:30 -0400">
+                            <Title>Chapter Eight</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="95189BD7-C1EB-4C02-AAF6-6C2268A120E1" Type="Text" Created="2025-07-09 00:19:30 -0400" Modified="2025-07-10 00:11:11 -0400">
+                                    <Title>Path Selection - Class</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>15813,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="4A417B13-8658-4021-BE75-4B39F2664372" Type="Text" Created="2025-07-09 11:47:28 -0400" Modified="2025-07-09 14:22:31 -0400">
+                                    <Title>Path Selection - Profession</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection Caret="6122">5330,792</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="110B673A-F57A-4A0D-AC21-8ABD0A70E500" Type="Text" Created="2025-07-09 14:12:16 -0400" Modified="2025-07-10 00:14:14 -0400">
+                                    <Title>Final Preparations</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2350,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2021-03-04 05:13:23 -0400">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4</DefaultChildTemplateUUID>
+        </BinderItem>
+        <BinderItem UUID="6830B6AC-686B-4370-A979-2FD1D7288BDA" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2018-11-06 13:50:52 -0400">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>0863BD1D-FA0F-4B8F-9B3F-3A0A2ACF174C</DefaultChildTemplateUUID>
+        </BinderItem>
+        <BinderItem UUID="57ECC98D-8199-4935-B5F1-D1F7A2D60646" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2019-10-06 13:45:45 -0400">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter</IconFileName>
+                <SectionType ChildDefault="F3D99402-96E3-4558-A2BE-FB83286017C8"/>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="1FF93A44-228E-438A-9D4B-E6B6258219A2" Type="Folder" Created="2019-08-29 06:04:08 -0400" Modified="2019-10-06 13:45:45 -0400">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="323E42B8-881A-4A72-938C-1D683D78D8DF" Type="Text" Created="2019-08-29 06:04:08 -0400" Modified="2025-06-21 17:32:27 -0400">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="FD4B78C9-DEBC-4CAF-91C6-970A36B5332F" Type="Folder" Created="2019-08-29 06:04:08 -0400" Modified="2019-10-06 13:45:45 -0400">
+                    <Title>Paperback</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9FDC7D70-BD4A-472E-B140-EDA8E105FAD6" Type="Text" Created="2019-08-29 06:04:08 -0400" Modified="2021-03-12 00:47:55 -0400">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5F40F985-59BA-43CC-8650-9EDD1E6A62B5" Type="Text" Created="2019-08-29 06:04:08 -0400" Modified="2019-08-29 06:04:08 -0400">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>73,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="17AA5803-9EA9-49C2-A454-2E8386E18F0A" Type="Text" Created="2019-08-29 06:04:08 -0400" Modified="2019-08-29 06:04:08 -0400">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>34,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B23591A4-8EC3-4E1F-B242-ECCA0207561C" Type="Text" Created="2019-08-29 06:04:08 -0400" Modified="2021-03-04 05:42:09 -0400">
+                            <Title>Blank Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="89B13BE7-31C7-43FF-8E30-7A9BA402C959" Type="Folder" Created="2019-08-29 06:04:08 -0400" Modified="2019-10-06 13:45:45 -0400">
+                    <Title>Ebook</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="62FF97C4-994E-4778-B24F-1B07FB81601D" Type="Image" Created="2019-08-29 06:04:08 -0400" Modified="2019-08-29 06:04:08 -0400">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4908D479-188E-4232-AA7D-38FD12692DC5" Type="Text" Created="2019-08-29 06:04:08 -0400" Modified="2019-08-29 06:04:08 -0400">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="69822417-D015-4BDD-90BD-18AAA6198D15" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2018-11-06 13:50:52 -0400">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Yellow Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2018-11-06 13:50:52 -0400" Modified="2019-08-29 05:41:55 -0400">
+            <Title>Research</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="9A470BDE-CF2B-4872-97C6-74F19BC90197" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2018-11-06 13:50:52 -0400">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="8011470C-3DAB-46BE-A166-FCF536FE86F6" Type="PDF" Created="2021-03-10 22:42:16 -0400" Modified="2021-03-12 01:17:19 -0400">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AA7F21EF-A4C4-485A-8044-6A7856D23E5B" Type="PDF" Created="2021-03-12 01:32:10 -0400" Modified="2021-03-12 01:45:01 -0400">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="5C03DE09-C285-48ED-827F-78E62B7D0F72" Type="Folder" Created="2018-11-06 13:50:52 -0400" Modified="2018-11-06 13:50:52 -0400">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4" Type="Text" Created="2019-08-29 06:01:58 -0400" Modified="2019-08-29 06:01:58 -0400">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="14">0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="027CB054-9C96-4160-9519-3E8E472A7813" Type="Text" Created="2025-06-25 12:07:14 -0400" Modified="2025-06-25 13:52:30 -0400">
+                    <Title>Marcus Dragunov</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5583,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0863BD1D-FA0F-4B8F-9B3F-3A0A2ACF174C" Type="Text" Created="2019-08-29 06:01:58 -0400" Modified="2019-08-29 06:01:58 -0400">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="15">0,15</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="19A9425F-A81D-46AB-97DB-82A71E5C6362" Type="Text" Created="2025-06-29 19:17:15 -0400" Modified="2025-07-09 14:18:34 -0400">
+                    <Title>Marcus Status Screen</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="3958">3603,355</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2018-11-06 13:50:52 -0400" Modified="2019-08-29 05:41:55 -0400">
+            <Title>Trash</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 13:50:52 -0400" Modified="2021-03-04 05:13:23 -0400">
+                    <Title>Novel Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Information</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1567,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0329F04A-8741-4E80-B852-2D85FEED9091" Type="Folder" Created="2025-06-30 18:51:29 -0400" Modified="2025-06-30 18:51:37 -0400">
+                    <Title>Earth</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0740837C-70BF-47E4-8892-438B9185D376" Type="Text" Created="2025-07-06 21:30:11 -0400" Modified="2025-07-06 21:30:11 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B4FA48C5-5FF9-4719-A016-52CEE6B2081D" Type="Folder" Created="2025-07-10 18:39:10 -0400" Modified="2025-07-10 18:39:10 -0400">
+                    <Title>Chapter One-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="094DE15B-D18B-45E2-A6EA-2C33A8B389D1" Type="Text" Created="2025-07-10 18:39:10 -0400" Modified="2025-07-10 18:39:10 -0400">
+                            <Title>Convention</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="2052">2051,1</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="07A17B54-0FF5-4BE3-AF5D-99AE90C104A3" Type="Text" Created="2025-07-10 18:39:10 -0400" Modified="2025-07-10 18:39:10 -0400">
+                            <Title>Bad Business</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="4192">4191,1</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="587CE904-6177-4F1F-886C-082D645D03B1" Type="Text" Created="2025-07-10 18:39:10 -0400" Modified="2025-07-10 18:39:10 -0400">
+                            <Title>Apocalypse Now-ish</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="3714">3632,82</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.941176 0.937255 0.956863">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">naked</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">Part Heading</Type>
+            <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">Chapter Heading</Type>
+            <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">Scene</Type>
+            <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">Chapter</Type>
+            <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">Heading</Type>
+            <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">Section</Type>
+            <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">Front Matter</Type>
+            <Type ID="235F7C42-10F1-40AB-9FC5-19AA26EABA47">Table of Contents</Type>
+            <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">N/A</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EA9C9DBA-B644-4EBB-BDAD-621E5455275A</Type>
+                <Type>417A6CCE-D4E1-44BA-9A8D-038360B4B905</Type>
+            </Folders>
+            <Containers>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+            </Containers>
+            <Files>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="7" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="8" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="9" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="10" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="11" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="12" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="6">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectBookmarks>
+        <Bookmark BinderUUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5"/>
+        <Bookmark BinderUUID="6830B6AC-686B-4370-A979-2FD1D7288BDA"/>
+        <Bookmark BinderUUID="69822417-D015-4BDD-90BD-18AAA6198D15"/>
+    </ProjectBookmarks>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-06-21 17:32:27 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2025-07-17 21:44:00 -0400"/>
+    </ProjectTargets>
+    <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
+    <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
+    <RecentWritingHistory Date="2025-07-17 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

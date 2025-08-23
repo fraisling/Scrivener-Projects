@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="437DA80B-54B5-4C00-A561-03B4D7AD9EBB" Creator="SCRWIN-3.1.5.1" Device="Rowan2024" Modified="2025-04-25 17:52:32 -0400" ModID="DDFDB631-84AC-497D-9DA2-FC153901C284">
+    <Binder>
+        <BinderItem UUID="9493B859-F73B-4A24-BF8F-D3D6175B71CE" Type="DraftFolder" Created="2024-05-05 17:01:23 -0400" Modified="2024-05-05 17:01:53 -0400">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="4E1B29B5-4E13-449B-817A-B31F715D8D44" Type="Text" Created="2024-05-05 17:09:40 -0400" Modified="2024-05-10 13:21:14 -0400">
+                    <Title>Hive</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2196,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C297183B-BF8A-401D-AFA1-FAC022F392D8" Type="Text" Created="2024-05-05 17:57:05 -0400" Modified="2024-05-05 18:04:36 -0400">
+                    <Title>The End</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>342,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="89810090-3898-4AC8-8AB1-9B21E3EEE094" Type="Text" Created="2024-05-05 18:05:29 -0400" Modified="2024-05-05 19:16:04 -0400">
+                    <Title>Memoriam</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>25,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E90A6532-02C6-4F8C-ACCF-53C96E67D5AB" Type="Text" Created="2024-05-05 19:16:54 -0400" Modified="2025-03-11 13:59:25 -0400">
+                    <Title>Wanderer</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>157,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DA2E412A-29FD-4196-825F-2745C7583696" Type="Text" Created="2025-04-25 16:50:24 -0400" Modified="2025-04-25 17:52:09 -0400">
+                    <Title>Possession</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>485,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="0399CD82-3D13-482A-BAA7-E06EB6AF8954" Type="ResearchFolder" Created="2024-05-05 17:01:23 -0400" Modified="2024-05-05 17:01:23 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="DE1C403F-43E3-4AF9-845D-6FE5FE0CB17B" Type="Folder" Created="2024-05-05 17:06:33 -0400" Modified="2024-05-05 17:06:55 -0400">
+            <Title>Resources</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="1B0BC996-914A-49C7-A355-D3CEDFAD5A13" Type="Text" Created="2024-05-05 17:50:59 -0400" Modified="2024-05-05 18:06:19 -0400">
+                    <Title>Idea Template</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>43,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A48FBE09-98AB-46D6-B646-D9F47E56B04C" Type="TrashFolder" Created="2024-05-05 17:01:23 -0400" Modified="2024-05-05 17:01:23 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="1E884AEC-96A9-4D96-865E-19E586084573" Type="Text" Created="2024-05-05 17:01:23 -0400" Modified="2024-05-05 17:02:46 -0400">
+                    <Title>Hive</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B3582392-5289-4B2E-8123-A5BDC93B71E3" Type="Text" Created="2024-05-05 17:06:59 -0400" Modified="2024-05-05 17:14:24 -0400">
+                    <Title>Idea Template</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="EFC897D4-8C89-49C7-A17C-0D3D6F71367F" Color="0.941176 0.937255 0.956863">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="9D03E414-0B5E-4A5E-9B86-721DC1DED4DD" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="F563671D-6398-4C74-9CED-FB46FB844750">Heading</Type>
+            <Type ID="5C68002E-75A5-468C-A86B-C9415F88967E">Sub-Heading</Type>
+            <Type ID="4ADD4382-8D39-4165-B537-5B0B843C1BFC">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>F563671D-6398-4C74-9CED-FB46FB844750</Type>
+            </Folders>
+            <Containers>
+                <Type>4ADD4382-8D39-4165-B537-5B0B843C1BFC</Type>
+            </Containers>
+            <Files>
+                <Type>4ADD4382-8D39-4165-B537-5B0B843C1BFC</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="1" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="2" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="3" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="4" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="5" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-05-05 17:01:23 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="77" Characters="434" Date="2025-04-25 17:52:32 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2025-04-25 00:00:00 -0400">
+        <DraftWordCount>77</DraftWordCount>
+        <DraftCharCount>434</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
