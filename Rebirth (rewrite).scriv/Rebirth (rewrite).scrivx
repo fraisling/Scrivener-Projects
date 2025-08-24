@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.5.1" Device="Rowan2024" Modified="2025-07-24 12:50:08 -0400" ModID="5A013875-52DA-4335-9BBF-282CEB0CC6AE">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.5.1" Device="Rowan2024" Modified="2025-08-24 01:11:56 -0400" ModID="D10E4203-A0B3-4740-979A-A5E73D50BAA0">
     <Binder>
         <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 13:57:53 -0400" Modified="2018-11-06 13:57:53 -0400">
             <Title>Manuscript</Title>
@@ -23,7 +23,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="E4BB4560-02B7-4374-83B0-EE213A085483" Type="Text" Created="2025-07-10 18:39:19 -0400" Modified="2025-07-11 10:27:12 -0400">
+                                <BinderItem UUID="E4BB4560-02B7-4374-83B0-EE213A085483" Type="Text" Created="2025-07-10 18:39:19 -0400" Modified="2025-08-24 01:03:41 -0400">
                                     <Title>Convention</Title>
                                     <MetaData>
                                         <StatusID>2</StatusID>
@@ -33,13 +33,13 @@
                                         <TextSelection>4708,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="012E047B-60B5-4430-B7C0-A0E692510F72" Type="Text" Created="2025-07-10 18:39:19 -0400" Modified="2025-07-11 10:36:55 -0400">
+                                <BinderItem UUID="012E047B-60B5-4430-B7C0-A0E692510F72" Type="Text" Created="2025-07-10 18:39:19 -0400" Modified="2025-08-24 01:11:33 -0400">
                                     <Title>Bad Business</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4359,0</TextSelection>
+                                        <TextSelection>2397,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="8543D74C-ECE3-486C-9DB4-EA3A4A657B63" Type="Text" Created="2025-07-10 18:39:19 -0400" Modified="2025-07-21 17:44:17 -0400">
@@ -684,15 +684,15 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-07-10 18:37:41 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2" Characters="14" Date="2025-07-24 12:50:08 -0400"/>
+        <PreviousSession Words="67" Characters="352" Date="2025-08-24 01:11:56 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2025-07-24 00:00:00 -0400">
-        <DraftWordCount>2</DraftWordCount>
-        <DraftCharCount>14</DraftCharCount>
-        <OtherWordCount>1</OtherWordCount>
-        <OtherCharCount>7</OtherCharCount>
+    <RecentWritingHistory Date="2025-08-24 00:00:00 -0400">
+        <DraftWordCount>67</DraftWordCount>
+        <DraftCharCount>352</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

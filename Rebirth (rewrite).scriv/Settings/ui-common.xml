@@ -14,7 +14,7 @@
             <ItemID>58D0189B-0507-4669-B129-4A392CF07F36</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>D5397FD6-99DB-4FED-B7A9-9F985D9A9FE2</ItemID>
+            <ItemID>8543D74C-ECE3-486C-9DB4-EA3A4A657B63</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -276,7 +276,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>0,0</Selection>
+                <Selection>3153,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
@@ -314,12 +314,12 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Scrivenings</GroupsViewMode>
-                <CurrentViewMode>Scrivenings</CurrentViewMode>
+                <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>D5397FD6-99DB-4FED-B7A9-9F985D9A9FE2</ItemID>
+                    <ItemID>8543D74C-ECE3-486C-9DB4-EA3A4A657B63</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="126">
+                <NavigationHistory CurrentIndex="128">
                     <HistoryItem Type="BinderItems" ViewMode="Single">5356BF2D-347F-41DA-A653-1738489DA222</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">EF810082-BDB7-4182-81D4-9776CB269E51</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">836A9182-6040-4420-95E2-1AF7621AC6F2</HistoryItem>
@@ -447,6 +447,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">B9CC7019-5FDA-4A45-9A00-288490F23A3F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">572DFBFB-D64D-4978-BC80-6F9A104E41D6</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">D5397FD6-99DB-4FED-B7A9-9F985D9A9FE2</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">012E047B-60B5-4430-B7C0-A0E692510F72</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">8543D74C-ECE3-486C-9DB4-EA3A4A657B63</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
